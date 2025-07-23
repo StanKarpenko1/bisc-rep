@@ -1,0 +1,168 @@
+{
+  "sets": [
+    {
+      "id": "set1",
+      "name": "Set 1",
+      "songs": [
+        {
+          "id": "song1",
+          "title": "She's Got The Look",
+          "artist": "Roxette",
+          "lyrics": "First line of the song goes here\nSecond line with the melody\nThird line continues the verse\nFourth line completes this part",
+          "dropboxUrl": "https://www.dropbox.com/example/shes-got-the-look.mp3",
+          "tempo": 120
+        },
+        {
+          "id": "song2",
+          "title": "I Want to Break Free",
+          "artist": "Queen",
+          "lyrics": "Opening verse starts here\nThe rhythm picks up in line two\nLine three builds the energy\nLine four leads to the chorus",
+          "dropboxUrl": "https://www.dropbox.com/example/i-want-to-break-free.mp3",
+          "tempo": 110
+        },
+        {
+          "id": "song3",
+          "title": "From the Inside",
+          "artist": "Linkin Park",
+          "lyrics": "Verse one begins with power\nSecond line adds emotion\nThird line raises intensity\nFourth line sets up the hook",
+          "dropboxUrl": "https://www.dropbox.com/example/from-the-inside.mp3",
+          "tempo": 95
+        },
+        {
+          "id": "song4",
+          "title": "Let Me Free",
+          "artist": "Artist Name",
+          "lyrics": "Starting with a gentle intro\nBuilding up the story here\nThird line adds more depth\nFourth line completes the thought",
+          "dropboxUrl": "https://www.dropbox.com/example/let-me-free.mp3",
+          "tempo": 100
+        },
+        {
+          "id": "song5",
+          "title": "Must Have Been Love",
+          "artist": "Roxette",
+          "lyrics": "Emotional opening line here\nSecond line continues the feeling\nThird line deepens the message\nFourth line brings it together",
+          "dropboxUrl": "https://www.dropbox.com/example/must-have-been-love.mp3",
+          "tempo": 75
+        },
+        {
+          "id": "song6",
+          "title": "Ghost (Original)",
+          "artist": "Band Name",
+          "lyrics": "Original composition starts\nSecond line sets the mood\nThird line creates atmosphere\nFourth line completes verse one",
+          "dropboxUrl": "https://www.dropbox.com/example/ghost-original.mp3",
+          "tempo": 85
+        },
+        {
+          "id": "song7",
+          "title": "Living On a Prayer",
+          "artist": "Bon Jovi",
+          "lyrics": "Classic rock anthem begins\nSecond line pumps up energy\nThird line drives forward\nFourth line sets up the chorus",
+          "dropboxUrl": "https://www.dropbox.com/example/living-on-a-prayer.mp3",
+          "tempo": 123
+        }
+      ]
+    },
+    {
+      "id": "set2",
+      "name": "Set 2",
+      "songs": [
+        {
+          "id": "song8",
+          "title": "Slipping in my car",
+          "artist": "Artist Name",
+          "lyrics": "Driving through the night alone\nWindows down, the radio on\nFeeling like I'm losing control\nSlipping in my car, body and soul",
+          "dropboxUrl": "https://www.dropbox.com/example/slipping-in-my-car.mp3",
+          "tempo": 115
+        },
+        {
+          "id": "song9",
+          "title": "Rolling on a river",
+          "artist": "Tina Turner",
+          "lyrics": "Left a good job in the city\nWorking for the man every night and day\nAnd I never lost one minute of sleeping\nWorrying 'bout the way things might have been",
+          "dropboxUrl": "https://www.dropbox.com/example/rolling-on-a-river.mp3",
+          "tempo": 135
+        },
+        {
+          "id": "song10",
+          "title": "Lost",
+          "artist": "Artist Name",
+          "lyrics": "Wandering through empty streets\nSearching for what I can't find\nEvery turn leads nowhere\nLost in space and time",
+          "dropboxUrl": "https://www.dropbox.com/example/lost.mp3",
+          "tempo": 80
+        },
+        {
+          "id": "song11",
+          "title": "Alone",
+          "artist": "Heart",
+          "lyrics": "I hear the ticking of the clock\nI'm lying here the room's pitch dark\nI wonder where you are tonight\nNo answer on the telephone",
+          "dropboxUrl": "https://www.dropbox.com/example/alone.mp3",
+          "tempo": 92
+        },
+        {
+          "id": "song12",
+          "title": "Holding Out for a Hero",
+          "artist": "Bonnie Tyler",
+          "lyrics": "Where have all the good men gone\nAnd where are all the gods?\nWhere's the streetwise Hercules\nTo fight the rising odds?",
+          "dropboxUrl": "https://www.dropbox.com/example/holding-out-for-a-hero.mp3",
+          "tempo": 147
+        },
+        {
+          "id": "song13",
+          "title": "Man I Feel like a woman",
+          "artist": "Shania Twain",
+          "lyrics": "Let's go girls, come on\nI'm going out tonight, I'm feelin' alright\nGonna let it all hang out\nWanna make some noise, really raise my voice",
+          "dropboxUrl": "https://www.dropbox.com/example/man-i-feel-like-a-woman.mp3",
+          "tempo": 124
+        },
+        {
+          "id": "song14",
+          "title": "Billy Jean",
+          "artist": "Michael Jackson",
+          "lyrics": "She was more like a beauty queen\nFrom a movie scene\nI said don't mind, but what do you mean\nI am the one",
+          "dropboxUrl": "https://www.dropbox.com/example/billy-jean.mp3",
+          "tempo": 117
+        },
+        {
+          "id": "song15",
+          "title": "Heart of Glass",
+          "artist": "Blondie",
+          "lyrics": "Once I had a love and it was a gas\nSoon turned out had a heart of glass\nSeemed like the real thing only to find\nMucho mistrust, love's gone behind",
+          "dropboxUrl": "https://www.dropbox.com/example/heart-of-glass.mp3",
+          "tempo": 110
+        },
+        {
+          "id": "song16",
+          "title": "It's my life",
+          "artist": "Bon Jovi",
+          "lyrics": "This ain't a song for the broken-hearted\nNo silent prayer for faith-departed\nI ain't gonna be just a face in the crowd\nYou're gonna hear my voice when I shout it out loud",
+          "dropboxUrl": "https://www.dropbox.com/example/its-my-life.mp3",
+          "tempo": 120
+        },
+        {
+          "id": "song17",
+          "title": "Come together",
+          "artist": "The Beatles",
+          "lyrics": "Here come old flat top\nHe come groovin' up slowly\nHe got joo joo eyeball\nHe one holy roller",
+          "dropboxUrl": "https://www.dropbox.com/example/come-together.mp3",
+          "tempo": 82
+        },
+        {
+          "id": "song18",
+          "title": "Flowers",
+          "artist": "Miley Cyrus",
+          "lyrics": "We were good, we were gold\nKinda dream that can't be sold\nWe were right 'til we weren't\nBuilt a home and watched it burn",
+          "dropboxUrl": "https://www.dropbox.com/example/flowers.mp3",
+          "tempo": 118
+        },
+        {
+          "id": "song19",
+          "title": "Highway to hell",
+          "artist": "AC/DC",
+          "lyrics": "Living easy, living free\nSeason ticket on a one way ride\nAsking nothing, leave me be\nTaking everything in my stride",
+          "dropboxUrl": "https://www.dropbox.com/example/highway-to-hell.mp3",
+          "tempo": 115
+        }
+      ]
+    }
+  ]
+}
