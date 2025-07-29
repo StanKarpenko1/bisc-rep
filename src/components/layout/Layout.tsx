@@ -18,11 +18,10 @@ function Layout({ children, activeSet, onSetChange }: LayoutProps) {
         <Box
           component="main"
           sx={{
-            flexGrow: 1,
+            flex: 1,
             minHeight: 'calc(100vh - 120px)',
             backgroundColor: '#fafafa',
             padding: 3,
-            width: '85%',
           }}
         >
           {children}

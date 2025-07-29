@@ -9,8 +9,8 @@ function Sidebar({ activeSet, onSetChange }: SidebarProps) {
   return (
     <Box
       sx={{
-        width: '15%',
-        minWidth: 150,
+        width: 200,
+        minWidth: 200,
         height: 'calc(100vh - 120px)',
         backgroundColor: '#f5f5f5',
         padding: 2,

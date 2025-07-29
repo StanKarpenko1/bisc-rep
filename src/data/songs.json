@@ -31,7 +31,7 @@
         {
           "id": "song4",
           "title": "Let Me Free",
-          "artist": "Artist Name",
+          "artist": "Original",
           "lyrics": "Starting with a gentle intro\nBuilding up the story here\nThird line adds more depth\nFourth line completes the thought",
           "dropboxUrl": "https://www.dropbox.com/example/let-me-free.mp3",
           "tempo": 100
@@ -47,7 +47,7 @@
         {
           "id": "song6",
           "title": "Ghost (Original)",
-          "artist": "Band Name",
+          "artist": "Original",
           "lyrics": "Original composition starts\nSecond line sets the mood\nThird line creates atmosphere\nFourth line completes verse one",
           "dropboxUrl": "https://www.dropbox.com/example/ghost-original.mp3",
           "tempo": 85
@@ -68,38 +68,62 @@
       "songs": [
         {
           "id": "song8",
-          "title": "Slipping in my car",
-          "artist": "Artist Name",
-          "lyrics": "Driving through the night alone\nWindows down, the radio on\nFeeling like I'm losing control\nSlipping in my car, body and soul",
-          "dropboxUrl": "https://www.dropbox.com/example/slipping-in-my-car.mp3",
-          "tempo": 115
+          "title": "Sleeping in my car",
+          "artist": "Roxette",
+          "lyrics": "Key: F#m\n__INTRO 1:__\n| Cajon Groove |\n| Guitar + Cajon intro | - 8 bars\n__VERSE 1:__\n| F#m | E | F#m | D |\n| F#m | E | B5  | D |\n| F#m | E | F#m | D |\n| F#m | E | B5  | D | | - | - |\n__CHORUS 1:__\n| F# | C# | D#m | B |\n| F# | C# | B   | C# |\n__INTERLUDE:__\n| F#m | E | D | E | x 2\n__VERSE 2__ (Same as Verse 1)\n__CHORUS 2__ (Same as Chorus 1) x 2\n__BRIDGE__ (Breakdown):\n| F# | C#/F | D#m | C# | x2\n| B  | C# stop|\n__INTERLUDE:__\n| F#m | E | D | E | x 2\n__CHORUS 2__ (Same as Chorus 1) x 2",
+          "dropboxUrl": "https://www.dropbox.com/example/sleeping-in-my-car.mp3",
+          "tempo": 120
         },
         {
           "id": "song9",
-          "title": "Rolling on a river",
-          "artist": "Tina Turner",
-          "lyrics": "Left a good job in the city\nWorking for the man every night and day\nAnd I never lost one minute of sleeping\nWorrying 'bout the way things might have been",
-          "dropboxUrl": "https://www.dropbox.com/example/rolling-on-a-river.mp3",
-          "tempo": 135
+          "title": "Lost",
+          "artist": "Linkin Park",
+          "lyrics": "Wandering through empty streets\nSearching for what I can't find\nEvery turn leads nowhere\nLost in space and time",
+          "dropboxUrl": "https://www.dropbox.com/example/lost.mp3",
+          "tempo": 103
         },
         {
           "id": "song10",
-          "title": "Lost",
-          "artist": "Artist Name",
-          "lyrics": "Wandering through empty streets\nSearching for what I can't find\nEvery turn leads nowhere\nLost in space and time",
-          "dropboxUrl": "https://www.dropbox.com/example/lost.mp3",
-          "tempo": 80
+          "title": "Come together",
+          "artist": "The Beatles",
+          "lyrics": "Here come old flat top\nHe come groovin' up slowly\nHe got joo joo eyeball\nHe one holy roller",
+          "dropboxUrl": "https://www.dropbox.com/example/come-together.mp3",
+          "tempo": 95
         },
         {
           "id": "song11",
-          "title": "Alone",
-          "artist": "Heart",
-          "lyrics": "I hear the ticking of the clock\nI'm lying here the room's pitch dark\nI wonder where you are tonight\nNo answer on the telephone",
-          "dropboxUrl": "https://www.dropbox.com/example/alone.mp3",
-          "tempo": 92
+          "title": "Heart of Glass",
+          "artist": "Blondie",
+          "lyrics": "Once I had a love and it was a gas\nSoon turned out had a heart of glass\nSeemed like the real thing only to find\nMucho mistrust, love's gone behind",
+          "dropboxUrl": "https://www.dropbox.com/example/heart-of-glass.mp3",
+          "tempo": 120
         },
         {
           "id": "song12",
+          "title": "Man I feel like a woman",
+          "artist": "Shania Twain",
+          "lyrics": "Let's go girls, come on\nI'm going out tonight, I'm feelin' alright\nGonna let it all hang out\nWanna make some noise, really raise my voice",
+          "dropboxUrl": "https://www.dropbox.com/example/man-i-feel-like-a-woman.mp3",
+          "tempo": 130
+        },
+        {
+          "id": "song13",
+          "title": "Proud Mary",
+          "artist": "Tina Turner",
+          "lyrics": "Left a good job in the city\nWorking for the man every night and day\nAnd I never lost one minute of sleeping\nWorrying 'bout the way things might have been",
+          "dropboxUrl": "https://www.dropbox.com/example/proud-mary.mp3",
+          "tempo": 90
+        },
+        {
+          "id": "song14",
+          "title": "It's My Life",
+          "artist": "Bon Jovi",
+          "lyrics": "This ain't a song for the broken-hearted\nNo silent prayer for faith-departed\nI ain't gonna be just a face in the crowd\nYou're gonna hear my voice when I shout it out loud",
+          "dropboxUrl": "https://www.dropbox.com/example/its-my-life.mp3",
+          "tempo": 120
+        },
+        {
+          "id": "song15",
           "title": "Holding Out for a Hero",
           "artist": "Bonnie Tyler",
           "lyrics": "Where have all the good men gone\nAnd where are all the gods?\nWhere's the streetwise Hercules\nTo fight the rising odds?",
@@ -107,56 +131,8 @@
           "tempo": 147
         },
         {
-          "id": "song13",
-          "title": "Man I Feel like a woman",
-          "artist": "Shania Twain",
-          "lyrics": "Let's go girls, come on\nI'm going out tonight, I'm feelin' alright\nGonna let it all hang out\nWanna make some noise, really raise my voice",
-          "dropboxUrl": "https://www.dropbox.com/example/man-i-feel-like-a-woman.mp3",
-          "tempo": 124
-        },
-        {
-          "id": "song14",
-          "title": "Billy Jean",
-          "artist": "Michael Jackson",
-          "lyrics": "She was more like a beauty queen\nFrom a movie scene\nI said don't mind, but what do you mean\nI am the one",
-          "dropboxUrl": "https://www.dropbox.com/example/billy-jean.mp3",
-          "tempo": 117
-        },
-        {
-          "id": "song15",
-          "title": "Heart of Glass",
-          "artist": "Blondie",
-          "lyrics": "Once I had a love and it was a gas\nSoon turned out had a heart of glass\nSeemed like the real thing only to find\nMucho mistrust, love's gone behind",
-          "dropboxUrl": "https://www.dropbox.com/example/heart-of-glass.mp3",
-          "tempo": 110
-        },
-        {
           "id": "song16",
-          "title": "It's my life",
-          "artist": "Bon Jovi",
-          "lyrics": "This ain't a song for the broken-hearted\nNo silent prayer for faith-departed\nI ain't gonna be just a face in the crowd\nYou're gonna hear my voice when I shout it out loud",
-          "dropboxUrl": "https://www.dropbox.com/example/its-my-life.mp3",
-          "tempo": 120
-        },
-        {
-          "id": "song17",
-          "title": "Come together",
-          "artist": "The Beatles",
-          "lyrics": "Here come old flat top\nHe come groovin' up slowly\nHe got joo joo eyeball\nHe one holy roller",
-          "dropboxUrl": "https://www.dropbox.com/example/come-together.mp3",
-          "tempo": 82
-        },
-        {
-          "id": "song18",
-          "title": "Flowers",
-          "artist": "Miley Cyrus",
-          "lyrics": "We were good, we were gold\nKinda dream that can't be sold\nWe were right 'til we weren't\nBuilt a home and watched it burn",
-          "dropboxUrl": "https://www.dropbox.com/example/flowers.mp3",
-          "tempo": 118
-        },
-        {
-          "id": "song19",
-          "title": "Highway to hell",
+          "title": "Highway to Hell",
           "artist": "AC/DC",
           "lyrics": "Living easy, living free\nSeason ticket on a one way ride\nAsking nothing, leave me be\nTaking everything in my stride",
           "dropboxUrl": "https://www.dropbox.com/example/highway-to-hell.mp3",

@@ -21,8 +21,8 @@ function App() {
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <Layout activeSet={activeSet} onSetChange={setActiveSet}>
-        <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center', width: '100%' }}>
-          <Box sx={{ mb: 3, textAlign: 'center' }}>
+        <Box sx={{ width: '100%' }}>
+          <Box sx={{ mb: 3 }}>
             <Typography variant="h4" gutterBottom>
               {currentSet?.name}
             </Typography>
@@ -30,7 +30,7 @@ function App() {
               {currentSet?.songs.length} songs in this set
             </Typography>
           </Box>
-          {currentSet && <SongAccordion songs={currentSet.songs} />}
+          {currentSet && <SongAccordion key={activeSet} songs={currentSet.songs} />}
         </Box>
       </Layout>
     </ThemeProvider>
