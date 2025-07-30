@@ -25,5 +25,6 @@ dist-ssr
 
 # Project specific
 src/instructions.md
+instructions.md
 
 .vercel

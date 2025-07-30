@@ -10,7 +10,7 @@
           "artist": "Roxette",
           "lyrics": "First line of the song goes here\nSecond line with the melody\nThird line continues the verse\nFourth line completes this part",
           "dropboxUrl": "https://www.dropbox.com/example/shes-got-the-look.mp3",
-          "tempo": 120
+          "tempo": 95
         },
         {
           "id": "song2",
@@ -34,7 +34,7 @@
           "artist": "Original",
           "lyrics": "Starting with a gentle intro\nBuilding up the story here\nThird line adds more depth\nFourth line completes the thought",
           "dropboxUrl": "https://www.dropbox.com/example/let-me-free.mp3",
-          "tempo": 100
+          "tempo": 97
         },
         {
           "id": "song5",
@@ -50,7 +50,7 @@
           "artist": "Original",
           "lyrics": "Original composition starts\nSecond line sets the mood\nThird line creates atmosphere\nFourth line completes verse one",
           "dropboxUrl": "https://www.dropbox.com/example/ghost-original.mp3",
-          "tempo": 85
+          "tempo": 78
         },
         {
           "id": "song7",
@@ -58,7 +58,7 @@
           "artist": "Bon Jovi",
           "lyrics": "Classic rock anthem begins\nSecond line pumps up energy\nThird line drives forward\nFourth line sets up the chorus",
           "dropboxUrl": "https://www.dropbox.com/example/living-on-a-prayer.mp3",
-          "tempo": 123
+          "tempo": 107
         }
       ]
     },
@@ -70,23 +70,23 @@
           "id": "song8",
           "title": "Sleeping in my car",
           "artist": "Roxette",
-          "lyrics": "Key: F#m\n__INTRO 1:__\n| Cajon Groove |\n| Guitar + Cajon intro | - 8 bars\n__VERSE 1:__\n| F#m | E | F#m | D |\n| F#m | E | B5  | D |\n| F#m | E | F#m | D |\n| F#m | E | B5  | D | | - | - |\n__CHORUS 1:__\n| F# | C# | D#m | B |\n| F# | C# | B   | C# |\n__INTERLUDE:__\n| F#m | E | D | E | x 2\n__VERSE 2__ (Same as Verse 1)\n__CHORUS 2__ (Same as Chorus 1) x 2\n__BRIDGE__ (Breakdown):\n| F# | C#/F | D#m | C# | x2\n| B  | C# stop|\n__INTERLUDE:__\n| F#m | E | D | E | x 2\n__CHORUS 2__ (Same as Chorus 1) x 2",
-          "dropboxUrl": "https://www.dropbox.com/example/sleeping-in-my-car.mp3",
+          "lyrics": "Key: F#m\n__INTRO 1:__\n| Cajon Groove |\n| Guitar + Cajon intro | - 8 bars\n__VERSE 1:__\n| F#m | E | F#m | D |\n| F#m | E | B5 | D |\n| F#m | E | F#m | D |\n| F#m | E | B5 | D | | - | - |\n__CHORUS 1:__\n| F# | C# | D#m | B |\n| F# | C# | B | C# |\n__INTERLUDE:__\n| F#m | E | D | E | x 1\n__VERSE 2__ (Same as Verse 1)\n__CHORUS 2__ (Same as Chorus 1) x 2\n__BRIDGE__ (Breakdown):\n| F# | C#/F | D#m | C# | x2\n| B | C# stop|\n__INTERLUDE:__\n| F#m | E | D | E | x 2\n__CHORUS 2__ (Same as Chorus 1) x 2\n__BRIDGE__ (Loud):\n| F# | C# | D#m | B  |\n| F# | C# | B   | C# |\n__OUTRO__\n| F# | C# | D#m | B  |\n| F# | C# | B   | C# |\n| F# - stop |",
+          "dropboxUrl": "https://www.youtube.com/watch?v=S5fn1DfqPfA&list=RDS5fn1DfqPfA&start_radio=1",
           "tempo": 120
         },
         {
           "id": "song9",
           "title": "Lost",
           "artist": "Linkin Park",
-          "lyrics": "Wandering through empty streets\nSearching for what I can't find\nEvery turn leads nowhere\nLost in space and time",
-          "dropboxUrl": "https://www.dropbox.com/example/lost.mp3",
+          "lyrics": "Key: Dm - Am\n\n__INTRO 1:__\n| Dm | F  | C | G | x2\n| G  | Am -> |\n\n__VERSE 1:__\n| Am | C | G | Dm | x3\n| Am | C | G | G  |\n\n__CHORUS 1:__\n| Dm | F  | C | G | x2\n| G  | Am -> |\n\n__VERSE 2:__\n| Am | C | G | Dm | x2\n| Am | C | G | G  |\n\n__CHORUS 2:__\n| Dm | F  | C | G | x2\n| G  |\n\n__BRIDGE__\n| Drums only | X 8 bars\n\n| Dm | F  | C | G | x2\n| G  | Am ->",
+          "dropboxUrl": "https://www.youtube.com/watch?v=-JNzcweg7aQ",
           "tempo": 103
         },
         {
           "id": "song10",
           "title": "Come together",
           "artist": "The Beatles",
-          "lyrics": "Here come old flat top\nHe come groovin' up slowly\nHe got joo joo eyeball\nHe one holy roller",
+          "lyrics": "Key: Em\n\n__INTRO:__\nRiff Em - by feel\n\n__VERSE 1:__\nRiff Em - 4 bars\n| B | B | A | A |\nRiff Em - 4 bars - bridge\nRiff Em  - 4 bars - with vocals\n| B | B | A | A |\n\n__CHORUS 1:__\n| C#m | A B |  with stop on B\n__BRIDGE__\nRiff Em - by feel\n\n__VERSE 2:__ - (half of verse 1)\nRiff Em  - 4 bars - with vocals\n| B | B | A | A |\n\n__CHORUS 2:__\n| C#m | A B |\n\n__INSTRUMENTAL__\n| C#m | B | A | D |\n| G   | B7+9 |\n\n__VERSE 3:__\nRiff Em - breakdown\n| B | B | A | A |\n\n__CHORUS 3:__\n| C#m | A B | x 3\n\n__OUTRO:__\nRiff Em by feel",
           "dropboxUrl": "https://www.dropbox.com/example/come-together.mp3",
           "tempo": 95
         },
@@ -94,7 +94,7 @@
           "id": "song11",
           "title": "Heart of Glass",
           "artist": "Blondie",
-          "lyrics": "Once I had a love and it was a gas\nSoon turned out had a heart of glass\nSeemed like the real thing only to find\nMucho mistrust, love's gone behind",
+          "lyrics": "Key: Eb\n\n__INTRO:__\n|  Eb |  Eb7 | Eb |  Eb7 | x 2\n\n__VERSE 1:__\n| Eb | Cm | Cm  | Eb |\n| Eb | Cm | Cm ->  | Eb | Eb | x 2 (2nd time bass : Eb-F-F#-G)\n\n__CHORUS 1:__\n| Ab9 | Ab9 | Eb  | Eb  |\n| Ab9 | Ab9 | F   | Bb - with bass Bb-C-C#-D   |\n\n__BRIDGE__\n|  Eb |  Eb7 | Eb |  Eb7 |\n\n__VERSE 2:__\n\n__CHORUS 2:__\n__CHORUS 3:__\n| Ab9 | 3/4 | Eb  | 3/4 |\n| Ab9 | 3/4 | Eb  | Eb with bass riff |\n\n__BRIDGE:__\nregular harmony for Part B\n\n__BRIDGE__\n|  Eb |  Eb7 | Eb |  Eb7 |\n\n__Verse 3:__\n__CHORUS 4:__\n\n__OUTRO:__\n| Ebmaj9 |  x 4",
           "dropboxUrl": "https://www.dropbox.com/example/heart-of-glass.mp3",
           "tempo": 120
         },
@@ -102,7 +102,7 @@
           "id": "song12",
           "title": "Man I feel like a woman",
           "artist": "Shania Twain",
-          "lyrics": "Let's go girls, come on\nI'm going out tonight, I'm feelin' alright\nGonna let it all hang out\nWanna make some noise, really raise my voice",
+          "lyrics": "Key: A\n\n__INTRO:__\n|  A riff (with F#-E) |  x4\n\n__VERSE 1:__\n| A | A | A  | D-G-A   | X2\n| G | G |\n| A | A | A  | D-G-A   | X2\n| G | G | A | A |\n\n__CHORUS 1:__\n|  E | x 4\n|  E | C#m | A |\n|  E | x 4\n|  E | C#m | A |\n| F#m -> |   |   |\n\n__VERSE 2:__\n| A | A | A  | D-G-A   | X2\n| G | G | A | A |\n\n__CHORUS 2:__\n|  E | x 4\n|  E | C#m | A |\n|  E | x 4\n|  E | C#m | A |\n| F#m -> |   |   |\n\n__SOLO:__\n| G  | D  | A  | A  | x 2\nTRIPLETS | G | G | A | A | 2/4 (pause)\n\n__CHORUS 3:__\n|  E | x 4\n|  E | C#m | A |\n|  E | x 4\n|  E | C#m | A |\n| F#m -> |   |   |  |\n\n__OUTRO:__\n| A  |  A |  G | D  | x4",
           "dropboxUrl": "https://www.dropbox.com/example/man-i-feel-like-a-woman.mp3",
           "tempo": 130
         },
@@ -110,23 +110,23 @@
           "id": "song13",
           "title": "Proud Mary",
           "artist": "Tina Turner",
-          "lyrics": "Left a good job in the city\nWorking for the man every night and day\nAnd I never lost one minute of sleeping\nWorrying 'bout the way things might have been",
-          "dropboxUrl": "https://www.dropbox.com/example/proud-mary.mp3",
+          "lyrics": "Key: A\nStart slow - than go double speed\n\n__INTRO:__\n| A | by feel\n\n__VERSE 1:__\n| A  | x 7 | C#-D-D#-E |\n\n__CHORUS 1:__\n|  E |  E | F#m  |  D |\n|  A | A  | A  | A  |\n|  A | A  | A  | A  |\n\n__VERSE 2:__\n__CHORUS 2:__\n\nSpeed Up\n|  A | A  | A  | A  |\n\n__VERSE 3:__\n__CHORUS 3:__\n\n__BRIDGE:__\n|  A | A  |  A |\nriff G-E G-E G-E-D-C-A-C-D\n\n|  A | A  | A  | A  |\n\n__VERSE 4:__\n__CHORUS 4:__\n\n__BRIDGE:__\n\n__OUTRO:__",
+          "dropboxUrl": "https://www.dropbox.com/scl/fi/emxvdqhjvk3ozcuwjfn0h/proud-mary-demo.mp3?rlkey=heyvye7v7m4zubtbh5xwwtiuz&e=1&st=juet32e4&dl=0",
           "tempo": 90
         },
         {
           "id": "song14",
           "title": "It's My Life",
           "artist": "Bon Jovi",
-          "lyrics": "This ain't a song for the broken-hearted\nNo silent prayer for faith-departed\nI ain't gonna be just a face in the crowd\nYou're gonna hear my voice when I shout it out loud",
-          "dropboxUrl": "https://www.dropbox.com/example/its-my-life.mp3",
+          "lyrics": "Key: Dm\n\n**INTRO:** guitar\n| Dm | F | C | Bb | x 2\n\n**VERSE 1:**\n| Dm | F | C | Bb | x 4\n\n**CHORUS 1:**\n| Dm | Bb | F | C | x 3\n| Gm | Gm | Bb | Bb |\n\n**BRIDGE**\n| Dm | Bb | F | F |\n\n**VERSE 2:**\n\n**CHORUS 2:**\n\n**SOLO:** guitar\n| Dm | Bb | F | C | x 4\n\n**BRIDGE:**\n| Dm | F | C | Bb\n\n**CHORUS 3:**\n\n**SOLO:** vocal over it\n| Dm | Bb | F | C | x 2\n\n**OUTRO:**\nlike intro - breakdown",
+          "dropboxUrl": "https://www.dropbox.com/scl/fi/69b4pn6frs1burhf9edr2/its-my-life.mp3?rlkey=egregdxdsons8q8069aci8m4u&e=1&st=b1uegoyf&dl=0",
           "tempo": 120
         },
         {
           "id": "song15",
           "title": "Holding Out for a Hero",
           "artist": "Bonnie Tyler",
-          "lyrics": "Where have all the good men gone\nAnd where are all the gods?\nWhere's the streetwise Hercules\nTo fight the rising odds?",
+          "lyrics": "Key: Am\nstart country-slow | last chorus - souble\n\n**INTRO:**\n| Am | Am | G | G | F | F | Esus | E |\n\n**VERSE 1:**\n| Am | Am | G | G |\n| F | F | Esus | E | x2\n\n**CHORUS 1:**\n| Am | Am | Em | Em |\n| F | F | C | G | x2\n\n**BRIDGE 1**\n| Am | Am | Am | Am |\n\n**VERSE 2:**\n**CHORUS 2:**\n\n**BRIDGE 2** solo-maybe\n| Am | Am | Am | Am |\n\n**BRIDGE:**\n| Am | Am (G) | F | F |\n| Dm | Em | Am | Am | -> ♩ ♫ (♪) ♫\n| Am | Am (G) | F | F |\n| Dm | Em | Am | Am | -> ♫ ♫ ♫ ♩\n\n**FAST**\n**CHORUS 3:**\n\n**OUTRO:**",
           "dropboxUrl": "https://www.dropbox.com/example/holding-out-for-a-hero.mp3",
           "tempo": 147
         },
@@ -134,7 +134,7 @@
           "id": "song16",
           "title": "Highway to Hell",
           "artist": "AC/DC",
-          "lyrics": "Living easy, living free\nSeason ticket on a one way ride\nAsking nothing, leave me be\nTaking everything in my stride",
+          "lyrics": "stidno ne znat'",
           "dropboxUrl": "https://www.dropbox.com/example/highway-to-hell.mp3",
           "tempo": 115
         }
