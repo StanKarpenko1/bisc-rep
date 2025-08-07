@@ -25,6 +25,15 @@ __CHORUS 2:__
 __BRIDGE__
 | Drums only | X 8 bars
 
+| Dm | F  | C | G | x2 - solo maybe
+
+__CHORUS 3:__
 | Dm | F  | C | G | x2
-| G  | Am ->
+| G  |
+
+__INTELUDE OUTRO:__
+| Am | C | G | Dm | x2
+coda: | Am |
+
+
 

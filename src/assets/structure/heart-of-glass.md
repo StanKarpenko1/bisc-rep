@@ -8,7 +8,9 @@ __INTRO:__
 
 __VERSE 1:__
 | Eb | Cm | Cm  | Eb |
-| Eb | Cm | Cm ->  | Eb | Eb | x 2 (2nd time bass : Eb-F-F#-G)
+| Eb | Cmaj | Cm | Eb | Eb | 
+| Eb | Cm | Cm  | Eb |
+| Eb | Cmaj | Abmaj | Eb bass : Eb-F-F#-G|
 
 __CHORUS 1:__
 | Ab9 | Ab9 | Eb  | Eb  |
@@ -18,20 +20,24 @@ __BRIDGE__
 |  Eb |  Eb7 | Eb |  Eb7 | 
 
 __VERSE 2:__
- 
+| Eb | Cm | Cm  | Eb |
+| Eb | Cmaj | Abmaj | Eb bass : Eb-F-F#-G|
+
 __CHORUS 2:__
 __CHORUS 3:__
-| Ab9 | 3/4 | Eb  | 3/4 |
-| Ab9 | 3/4 | Eb  | Eb with bass riff |
-
-__BRIDGE:__
-regular harmony for Part B
+| Ab9 | 2/4 |
+| Eb  | 2/4 |
+| Ab9 | Ab9 | F  | Bb - with bass Bb-C-C#-D  |
 
 __BRIDGE__
 |  Eb |  Eb7 | Eb |  Eb7 | 
 
-__Verse 3:__
+__Verse 3:__ - 2 lines, not 4 (with extra bar on Eb)
 __CHORUS 4:__
+__CHORUS 5:__
+| Ab9 | 2/4 | 
+| Eb  | 2/4 |
+| Ab9 | Ab9 | F  | Bb - with bass Bb-C-C#-D  |
 
 __OUTRO:__
-| Ebmaj9 |  x 4
+|  Eb |  Eb7 | Eb |  Eb7 | ?

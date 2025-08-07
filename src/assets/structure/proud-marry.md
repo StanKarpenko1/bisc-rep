@@ -2,6 +2,7 @@ Proud Mary - Tina Turner
 
 Key: A
 Start slow - than go double speed
+Trigger on the word "Rough" - on A7+9 -> twice -> then trice
 
 __INTRO:__
 | A | by feel 

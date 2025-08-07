@@ -37,4 +37,4 @@ __CHORUS 3:__
 
 
 __OUTRO:__
-Riff Em by feel
+Blues outro turnaround

@@ -1,33 +1,32 @@
-She's Got the Look
+Sleeping in my car
 
-Key: A
+Key: F#m
+Notes : coda with 3 doted accents
 
-INTRO RIFF
-Intro:
-| A | by feel
-
-VERSE 1:
-| A | G | D | A | x2
-
-CHORUS 1:
-| A | A | C G| A |
-| C G | A | F G | 
-
-__BRIDGE__
-| A | A |
-
-VERSE 2 (Same as Verse 1)
-
-CHORUS 2 (Same as Chorus 1)
-
-BRIDGE:
-| A | A |
-
-BREAK (Keys):
-| E | A | x 2
-
-INSTRUMENTAL JAM:
-| G | D | x3
-| A |
-
-...
+__INTRO 1:__
+| Cajon Groove |
+| Guitar + Cajon intro | - 8 bars
+__VERSE 1:__
+| F#m | E | F#m | D |
+| F#m | E | B5 | D |
+| F#m | E | F#m | D |
+| F#m | E | B5 | D | | - | - |
+__CHORUS 1:__
+| F# | C# | D#m | B |
+| F# | C# | B | C# |
+__INTERLUDE:__
+| F#m | E | D | E | x 1
+__VERSE 2__ (Same as Verse 1)
+__CHORUS 2__ (Same as Chorus 1) x 2
+__BRIDGE__ (Breakdown):
+| F# | C#/F | D#m | C# | x2
+| B | C# stop|
+__INTERLUDE:__
+| F#m | E | D | E | x 2
+__CHORUS 2__ (Same as Chorus 1) x 2
+__BRIDGE__ (Loud):
+| F# | C# | D#m | B |
+| F# | C# | B | C# |
+__OUTRO__
+| F# | C# | D#m | B |
+| F# | C# | B - 3 doted accents

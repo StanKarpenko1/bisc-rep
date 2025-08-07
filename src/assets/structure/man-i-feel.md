@@ -1,14 +1,16 @@
 Man I Feel Like A Woman - Shania Twain
 
+There is a guitar solo in this song
+
 Key: A
 
 __INTRO:__
 |  A riff (with F#-E) |  x4
 
 __VERSE 1:__
-| A | A | A  | D-G-A   | X2
-| G | G |
-| A | A | A  | D-G-A   | X2
+| A | A | A  | D-C-A   | X2
+| A with solo melody |  Pause !  |
+| A | A | A  | D-C-A   | X2
 | G | G | A | A |
 
 __CHORUS 1:__
@@ -19,7 +21,7 @@ __CHORUS 1:__
 | F#m -> |   |   |
 
 __VERSE 2:__
-| A | A | A  | D-G-A   | X2
+| A | A | A  | D-C-A   | X2
 | G | G | A | A |
 
 __CHORUS 2:__
