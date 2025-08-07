@@ -23,7 +23,7 @@ __CHORUS 2:__ - last bar Am7 - to strum through
 
 __SOLO:__
 | C |  F | Dm | G  |
-|   |    |    |  Esus | E  ♪♪ ♪♪ ♪| 
+| C |  F | Dm |  Esus | E  ♪♪ ♪♪ ♪| 
 
 __CHORUS 3:__
 

@@ -14,7 +14,6 @@ last E bar has a “duft – no pause” mark (smooth transition)
 CHORUS (B section):
 | B | A | B | A |
 
-| C#m | F# | A | B |
-| C# | B |
-| A | B |
-| E | – | E | – |
+| C#m | F# | A  B | C#m   C#m-B |
+| A  B | C#m   C#m-B |
+| A  B | E

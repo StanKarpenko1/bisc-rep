@@ -16,7 +16,7 @@
           "id": "song2",
           "title": "I Want to Break Free",
           "artist": "Queen",
-          "lyrics": "Key: E\n\n__INTRO:__\n| E | E | E | E → |\n\n__VERSE:__\n| E | E |\n| E | E | E | E |\n| B | A | E | E →|\nlast E bar has a \"duft – no pause\" mark (smooth transition)\n\n__CHORUS:__\n| B | A | B | A |\n\n| C#m | F# | A | B |\n| C# | B |\n| A | B |\n| E | – | E | – |",
+          "lyrics": "Key: E\n\n__INTRO:__\n| E | E | E | E → |\n\n__VERSE:__\n| E | E |\n| E | E | E | E |\n| B | A | E | E →|\nlast E bar has a \"duft – no pause\" mark (smooth transition)\n\n__CHORUS:__\n| B | A | B | A |\n\n| C#m | F# | A  B | C#m   C#m-B |\n| A  B | C#m   C#m-B |\n| A  B | E",
           "dropboxUrl": "https://www.dropbox.com/example/i-want-to-break-free.mp3",
           "tempo": 110
         },
@@ -32,7 +32,7 @@
           "id": "song4",
           "title": "Let Me Free",
           "artist": "Original",
-          "lyrics": "Key: Am\n\n__INTRO:__\n| Am | G | F | F | x 2\n\n__VERSE 1:__\n| Am | G | F | F | x 2\n\n__PRE-CHORUS 1:__\n| Dm | Am | G | G ~> |\n\n__CHORUS 1:__\n| Dm | G | Am7 | Am7 |\n| Dm | G | Am7 | G/B C |\n| Dm | G | Am7 | Am7 |\n| Dm | Esus E7 | Am7 | Am7 ~> |\n\n__VERSE 2:__\n__PRE-CHORUS 2:__\n__CHORUS 2:__ - last bar Am7 - to strum through\n\n__SOLO:__\n| C |  F | Dm | G  |\n|   |    |    |  Esus | E  ♪♪ ♪♪ ♪|\n\n__CHORUS 3:__\n\n__OUTRO:__\n| Dm | Esus | Am7 | Am7 |\n| Dm | Esus ~> | coda -> Am7",
+          "lyrics": "Key: Am\n\n__INTRO:__\n| Am | G | F | F | x 2\n\n__VERSE 1:__\n| Am | G | F | F | x 2\n\n__PRE-CHORUS 1:__\n| Dm | Am | G | G ~> |\n\n__CHORUS 1:__\n| Dm | G | Am7 | Am7 |\n| Dm | G | Am7 | G/B C |\n| Dm | G | Am7 | Am7 |\n| Dm | Esus E7 | Am7 | Am7 ~> |\n\n__VERSE 2:__\n__PRE-CHORUS 2:__\n__CHORUS 2:__ - last bar Am7 - to strum through\n\n__SOLO:__\n| C |  F | Dm | G  |\n| C |  F | Dm |  Esus | E  ♪♪ ♪♪ ♪|\n\n__CHORUS 3:__\n\n__OUTRO:__\n| Dm | Esus | Am7 | Am7 |\n| Dm | Esus ~> | coda -> Am7",
           "dropboxUrl": "https://www.dropbox.com/example/let-me-free.mp3",
           "tempo": 97
         },
