@@ -13,13 +13,13 @@ function Layout({ children, activeSet, onSetChange }: LayoutProps) {
   return (
     <>
       <Header />
-      <Box sx={{ display: 'flex', marginTop: '120px' }}>
+      <Box sx={{ display: 'flex', marginTop: '60px' }}>
         <Sidebar activeSet={activeSet} onSetChange={onSetChange} />
         <Box
           component="main"
           sx={{
             flex: 1,
-            minHeight: 'calc(100vh - 120px)',
+            minHeight: 'calc(100vh - 60px)',
             backgroundColor: '#fafafa',
             padding: 3,
           }}

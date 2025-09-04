@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { CssBaseline, ThemeProvider, createTheme, Typography, Box } from '@mui/material';
 import Layout from './components/layout/Layout';
 import SongAccordion from './components/songs/SongAccordion';
-import songsData from './data/songs.json';
+import { songsData } from './data/songsData';
 
 const theme = createTheme({
   palette: {

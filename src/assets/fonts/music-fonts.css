@@ -1,0 +1,26 @@
+/* Use system fonts that support musical symbols */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Music&display=swap');
+
+/* Fallback to system fonts with music symbol support */
+@font-face {
+  font-family: 'MusicSymbols';
+  src: local('Noto Music'), 
+       local('Apple Symbols'), 
+       local('Segoe UI Symbol'), 
+       local('DejaVu Sans'),
+       url('https://fonts.gstatic.com/s/notomusic/v20/pe0rMIiSN5pO63htf1sxIteQB9Zra1U.woff2') format('woff2');
+  font-display: swap;
+}
+
+/* Music symbol utility classes */
+.music-symbol {
+  font-family: 'MusicSymbols', 'Noto Music', 'Apple Symbols', 'Segoe UI Symbol', serif;
+  font-size: 1.2em;
+  line-height: 1;
+}
+
+.rhythm-notation {
+  font-family: 'MusicSymbols', 'Noto Music', 'Apple Symbols', 'Segoe UI Symbol', monospace;
+  font-size: 1.1em;
+  letter-spacing: 0.1em;
+}

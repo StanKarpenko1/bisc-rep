@@ -8,8 +8,10 @@ import {
   Chip,
 } from '@mui/material';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import ExpandLessIcon from '@mui/icons-material/ExpandLess';
 import MusicNoteIcon from '@mui/icons-material/MusicNote';
 import SpeedIcon from '@mui/icons-material/Speed';
+import { useState } from 'react';
 
 interface Song {
   id: string;
@@ -25,12 +27,22 @@ interface SongAccordionProps {
 }
 
 function SongAccordion({ songs }: SongAccordionProps) {
+  const [expanded, setExpanded] = useState<string | false>(false);
+
+  const handleChange = (panel: string) => (_event: React.SyntheticEvent, isExpanded: boolean) => {
+    setExpanded(isExpanded ? panel : false);
+  };
+
+ 
   return (
     <Box sx={{ width: '80%', margin: '0 auto' }} data-testid="song-accordion-container">
       {songs.map((song) => (
         <Accordion 
           key={song.id}
+          expanded={expanded === song.id}
+          onChange={handleChange(song.id)}
           data-testid={`song-accordion-${song.id}`}
+          slotProps={{ transition: { timeout: 300 } }}
           sx={{ 
             width: '100%',
             mb: 2,
@@ -82,19 +94,39 @@ function SongAccordion({ songs }: SongAccordionProps) {
               </Box>
             </Box>
           </AccordionSummary>
-          <AccordionDetails sx={{ pt: 3 }} data-testid={`song-accordion-details-${song.id}`}>
-            <Typography
-              variant="body1"
-              data-testid={`song-lyrics-${song.id}`}
-              sx={{
-                whiteSpace: 'pre-line',
-                fontFamily: 'monospace',
-                fontSize: '1.1rem',
-                lineHeight: 1.8,
-              }}
-            >
-              {song.lyrics}
-            </Typography>
+          <AccordionDetails sx={{ pt: 3, pb: 2 }} data-testid={`song-accordion-details-${song.id}`}>
+            <Box sx={{ display: 'flex', flexDirection: 'column', width: '100%' }}>
+              <Typography
+                variant="body1"
+                data-testid={`song-lyrics-${song.id}`}
+                sx={{
+                  whiteSpace: 'pre-line',
+                  fontFamily: 'monospace',
+                  fontSize: '1.1rem',
+                  lineHeight: 1.8,
+                  mb: 3,
+                }}
+              >
+                {song.lyrics}
+              </Typography>
+              <Box sx={{ display: 'flex', justifyContent: 'center', mt: 2 }}>
+                <IconButton
+                  onClick={() => setExpanded(false)}
+                  sx={{
+                    border: '1px solid rgba(0, 0, 0, 0.23)',
+                    borderRadius: '50%',
+                    padding: '6px',
+                    '&:hover': {
+                      backgroundColor: 'rgba(0, 0, 0, 0.04)',
+                    },
+                  }}
+                  data-testid={`close-accordion-${song.id}`}
+                  aria-label="Close accordion"
+                >
+                  <ExpandLessIcon sx={{ fontSize: '1.2rem' }} />
+                </IconButton>
+              </Box>
+            </Box>
           </AccordionDetails>
         </Accordion>
       ))}

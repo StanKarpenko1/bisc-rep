@@ -11,7 +11,7 @@ function Header() {
         borderRadius: '0 0 8px 8px',
       }}
     >
-      <Toolbar sx={{ minHeight: 120, height: 120 }}>
+      <Toolbar sx={{ minHeight: 60, height: 60 }}>
         <Typography 
           variant="h5" 
           component="div"
